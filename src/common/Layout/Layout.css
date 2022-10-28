@@ -1,0 +1,9 @@
+.Sidebar__meta .ant-layout-content {
+    margin: 108px 50px;
+}
+.Sidebar__meta .ant-layout-sider{
+    margin-top: 64px;
+}
+.Sidebar__meta aside.ant-layout-sider.ant-layout-sider-dark.ant-layout-sider-collapsed.ant-layout-sider-has-trigger {
+    margin-right: 70px;
+}

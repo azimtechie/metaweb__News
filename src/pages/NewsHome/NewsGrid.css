@@ -1,0 +1,13 @@
+.newsgrid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-column-gap: 35px;
+    grid-gap: 35px;
+
+}
+.meta__pagination{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    justify-content: end;
+}

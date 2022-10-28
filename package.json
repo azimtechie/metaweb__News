@@ -9,6 +9,7 @@
     "antd": "^4.23.5",
     "bootstrap": "^5.2.2",
     "browser-router": "^0.2.0",
+    "eslint-plugin-prettier": "^4.2.1",
     "newsapi": "^2.4.1",
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0",
@@ -43,6 +44,10 @@
     ]
   },
   "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-react": "^7.31.10",
     "json-loader": "^0.5.7"
   }
 }

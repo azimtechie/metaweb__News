@@ -1,5 +1,5 @@
 import { FullscreenOutlined, CopyOutlined, ShareAltOutlined, SettingOutlined } from '@ant-design/icons';
-import { Avatar, Card } from 'antd';
+import { Card } from 'antd';
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { RWebShare } from "react-web-share";

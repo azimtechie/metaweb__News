@@ -4,6 +4,7 @@ import "./NewsGrid.css";
 import { Pagination } from "antd";
 
 const NewsGrid = () => {
+  // newsgrid
   const [pageSize] = useState(10);
   const [page, setPage] = useState(1);
   const [totalPages, setTotalPages] = useState(1);
